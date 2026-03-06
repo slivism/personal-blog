@@ -1,20 +1,25 @@
 # personal-blog
 
-A fast personal-blog implementation.
+This project is a fast implementation of a personal blog.
 
 ## Features
-- Fast and responsive
-- Easy to deploy
+- Easy to set up and deploy
+- Responsive design
+- Supports markdown for blog posts
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-1. Fork the project
-2. Create your feature branch (`git checkout -b feat/amazing-feature`)
-3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
-4. Push to the branch (`git push origin feat/amazing-feature`)
-5. Open a Pull Request
+## Technologies
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+
+## Usage
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Start the server: `node server.js`
+4. Visit `http://localhost:3000` to view your blog.
 
 ## Future Plans
-- Add more themes
-- Improve SEO
-
+- Add user authentication
+- Implement a comment system
+- Integrate with social media
