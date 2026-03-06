@@ -23,3 +23,4 @@ This project is a fast implementation of a personal blog.
 - Add user authentication
 - Implement a comment system
 - Integrate with social media
+- Improve SEO optimization
